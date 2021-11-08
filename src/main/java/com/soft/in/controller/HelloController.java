@@ -14,7 +14,9 @@ public class HelloController {
 	public String Test() {
 		return "hello git";
 	}
-	
+	public String M1() {
+		return "hello git";
+	}
 	
 
 }
