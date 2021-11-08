@@ -18,5 +18,9 @@ public class HelloController {
 		return "hello git";
 	}
 	
+	public String M2() {
+		return "hello git";
+	}
+	
 
 }
